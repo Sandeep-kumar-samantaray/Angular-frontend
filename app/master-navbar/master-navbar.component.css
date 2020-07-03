@@ -1,0 +1,11 @@
+.sidebar-wrapper{
+    min-height: 100vh;
+    margin-left: -15rem;
+   
+}
+.sidebar-heading{
+    width: 11%;
+}
+.list-group{
+    width: 11%;
+}

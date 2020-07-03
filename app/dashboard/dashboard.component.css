@@ -1,0 +1,12 @@
+.masterheader{
+    padding: 3px;
+    border: 5px solid rgb(123, 144,150 );
+}
+.masternav{
+    text-align: center;
+   }
+.box-fix{
+    position: fixed;
+    /* height:50px; */
+    width:100%;
+}
